@@ -1,0 +1,28 @@
+{
+  "name": "mmm-rabbit",
+  "version": "1.1.0",
+  "description": "MagicMirror2 solid network status",
+  "main": "MMM-rabbit.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neao-anderson/MMM-rabbit.git"
+  },
+  "keywords": [
+    "MMM",
+    "MagicMirror",
+    "MagicMirror2",
+    "rabbit"
+  ],
+  "author": "neao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/neao-anderson/MMM-rabbit/issues"
+  },
+  "homepage": "https://github.com/neao-anderson/MMM-rabbit#readme",
+  "dependencies": {
+    "ping": "^0.4.0"
+  }
+}
